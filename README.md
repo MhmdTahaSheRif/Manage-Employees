@@ -11,4 +11,4 @@
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of Manage Employees by visiting the hosted page on Github:
-[Employee Management Page](https://mhmdtahasherif.github.io/Manage-Employees/)
+[Employee Management](https://mhmdtahasherif.github.io/Manage-Employees/)
