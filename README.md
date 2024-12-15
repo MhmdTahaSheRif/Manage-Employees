@@ -1,7 +1,7 @@
 
 # Employee-Management
 
-<img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/Manage-Employees/blob/main/Screenshot 2024-12-15 123138.png">
+<img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/Manage-Employees/blob/main/Screenshot 2024-12-15 123138.jpg">
 
 ## 🔗 Links
 
